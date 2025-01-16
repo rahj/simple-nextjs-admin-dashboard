@@ -1,5 +1,8 @@
 This is just a simple test admin dashboard in NextJS using Tailwind and Recharts. 
 
+Dashboard Url:
+http://localhost:3000/admin
+
 ![screencapture-localhost-3000-admin-2025-01-16-09_27_39](https://github.com/user-attachments/assets/94ab1f23-059d-4eba-913d-5623edce3a8e)
 
 
