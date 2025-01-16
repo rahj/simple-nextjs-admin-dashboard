@@ -1,3 +1,8 @@
+This is just a simple test admin dashboard in NextJS using Tailwind and Recharts. 
+
+![screencapture-localhost-3000-admin-2025-01-16-09_27_39](https://github.com/user-attachments/assets/94ab1f23-059d-4eba-913d-5623edce3a8e)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
